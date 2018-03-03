@@ -1,0 +1,3 @@
+O teste de sistema é uma fase do processo de teste de software e de hardware em que o sistema já completamente integrado é verificado quanto a seus requisitos num ambiente de produção. Está no escopo da técnica de teste de caixa-preta, e dessa forma não requer conhecimento da estrutura (lógica) interna do sistema. É um teste mais limitado em relação aos testes de unidade e de integração, fases anteriores do processo de teste, pois se preocupa somente com aspectos gerais do sistema.
+
+O teste de sistema não se limita a testar somente requisitos funcionais, mas também requisitos não funcionais como a expectativa do cliente, e por isso inclui também técnicas não funcionais de teste.
